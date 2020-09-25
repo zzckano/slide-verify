@@ -96,7 +96,7 @@ export default {
 
 ### 更新记录
 #### V1.1.3 描述
- - 解决IE 9 - 10 滑块显示bug，感谢大神 [@Guosugaz](https://github.com/Guosugaz) 修复此bug 🎉 
+ - 解决IE 9 - 10 滑块显示bug 🎉 
  - 修复 滑块成功后依然能滑动bug 
  - 优化 图片未加载完成之前加载遮罩层
  - 增加滑动成功后的时间显示。单位毫秒。
