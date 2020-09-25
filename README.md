@@ -92,7 +92,7 @@ export default {
 | fulfilled | Function | 刷新成功之后的回调函数 | 1.1.1 |
 
 ## Document
-### 国内镜像地址 [gitee镜像地址](https://gitee.com/monoplasty/vue-monoplasty-slide-verify)
+### 国内镜像地址 [gitee镜像地址](https://gitee.com/zzckano/slide-verify)
 
 ### 更新记录
 #### V1.1.3 描述
