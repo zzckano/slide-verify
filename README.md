@@ -96,10 +96,10 @@ export default {
 
 ### 更新记录
 #### V1.1.3 描述
- - 解决IE 9 - 10 滑块显示bug，感谢大神 [@Guosugaz](https://github.com/Guosugaz) 修复此bug 🎉 [issue#26](https://github.com/monoplasty/vue-monoplasty-slide-verify/issues/26)  
+ - 解决IE 9 - 10 滑块显示bug，感谢大神 [@Guosugaz](https://github.com/Guosugaz) 修复此bug 🎉 
  - 修复 滑块成功后依然能滑动bug 
  - 优化 图片未加载完成之前加载遮罩层
- - 增加滑动成功后的时间显示。单位毫秒。[issue#24](https://github.com/monoplasty/vue-monoplasty-slide-verify/issues/24)
+ - 增加滑动成功后的时间显示。单位毫秒。
 #### V1.1.1 描述（此版本有bug,请使用最新版）
 - `accuracy` 精度设置
 > 判断滑块与凹槽位置的误差范围值，默认取值范围为 [1, 10]。若取值不为 -1，则会开启检测非人为操作。人为操作也有可能会触发哦！
